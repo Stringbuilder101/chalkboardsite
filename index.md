@@ -1,5 +1,6 @@
 
-<h2>Sign Up</h2>
+<html>
+Sign Up
 <form method="post" enctype="multipart/form-data" action=" https://wp.zybooks.com/form-viewer.php">
    <p><div>
      <label for="fullName">Full name:</label>
@@ -20,3 +21,5 @@
      <input type="submit" value="Submit">
    </div></p>
 </form>
+</html>
+
