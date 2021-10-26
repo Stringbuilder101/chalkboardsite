@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="chalkboardsite/styles.css">
+
 <h2>Sign Up</h2>
 <form method="post" enctype="multipart/form-data" action=" https://wp.zybooks.com/form-viewer.php">
    <p><div>
